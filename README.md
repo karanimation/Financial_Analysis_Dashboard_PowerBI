@@ -1,6 +1,6 @@
 # Financial_Analysis_Dashboard_PowerBI
 
-This is basically a guided project from YouTube named "Google Sheets Tips and Tricks"
+This is basically a guided project from YouTube named "Google Sheets Tips and Tricks".
 This project helped me further deepen my knowledge in PowerBI and gets to practice my skills on real world project.
 It also helped me undedrstand how an analyst view the raw data and further dive to get insights out of it.
 In this I used power query, slicers, and other similar PowerBI tools to clean, organize, analyze and later make a dashboard out of it.
